@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/res/merged/release/layout/list_item_bluetooth_device_info.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/list_item_bluetooth_device_info.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/res/merged/release/layout/dialog_camera.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/res/layout/dialog_camera.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/res/merged/release/layout/item_picker.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/item_picker.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/res/merged/release/layout/view_frame_selector.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/view_frame_selector.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/res/merged/release/layout/color_picker_dialog.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/color_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/res/merged/release/layout/listitem_device.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/res/merged/release/layout/color_picker.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/color_picker.xml"
+    }
+]

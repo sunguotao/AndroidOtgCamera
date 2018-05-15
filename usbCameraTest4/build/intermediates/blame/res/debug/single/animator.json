@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/animator/card_flip_left_out.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/animator/card_flip_left_out.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/animator/card_flip_right_in.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/animator/card_flip_left_in.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/animator/card_flip_left_in.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/animator/card_flip_right_out.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/animator/card_flip_right_out.xml"
+    }
+]

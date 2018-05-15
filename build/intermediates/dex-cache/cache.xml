@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/CameraOTG-master/usbCameraCommon/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="400647733f0ce0392157b199ad19643693fb2ff4">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/pre-dexed/debug/CameraOTG-master-usbCameraCommon-unspecified_b41a31777520dd6f03e329832792bd42f0e33130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest6/build/intermediates/exploded-aar/CameraOTG-master/usbCameraCommon/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="400647733f0ce0392157b199ad19643693fb2ff4">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest6/build/intermediates/pre-dexed/debug/CameraOTG-master-usbCameraCommon-unspecified_ed7ee5848223303e2d88ec910c55ee17351fad36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest6/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest6/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_c447a7c7a9afcd5c2cd3cdcb8376d66bf5fa5e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest7/build/intermediates/exploded-aar/CameraOTG-master/usbCameraCommon/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="400647733f0ce0392157b199ad19643693fb2ff4">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest7/build/intermediates/pre-dexed/debug/CameraOTG-master-usbCameraCommon-unspecified_c1c70003c9de2caa1d5642cd9740f14114d51d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_647db48cd54dbed1e9eb5b66572f54e754c09ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_7fb7206fa51ff5c7fa697c957f484074c1188c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_14cb04452141e74b015242e0a62efc0ea437ef86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_6bcf6655b92304a7f55bfed0f12fe42792e9a6fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest7/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest7/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_6b2e93b8c69f4baad5151679daced9ed43e625f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_fa3c34d3433304ead9387a0606af79a91d7ab203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest5/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest5/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_c10b27257e7389a9138854306675a500bc303467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest7/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest7/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_9aa48c11e127a6eaafccacbb19306100568dc464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_ad07b1202f0f02221d0f15c2ada41b7fb9af969c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_77735c2e02b3c07c0405bf2c709b77ab389b9e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest8/build/intermediates/exploded-aar/CameraOTG-master/usbCameraCommon/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="400647733f0ce0392157b199ad19643693fb2ff4">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest8/build/intermediates/pre-dexed/debug/CameraOTG-master-usbCameraCommon-unspecified_c56efd22db8e8b13a7bdbd795cbba6a867787a53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest8/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest8/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_c6c786de79d588abaaec28b075c7b44f52780fb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_70ecaa3df209437ce96c7f7564b98cecf1a1cd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest8/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest8/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_341ebedd4d36e67f86e8642e27785b64c79ce122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest2/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest2/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_c489f9b8b706d2c7801b96db142117c971d3af50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_9c396343ba21a67a12b698a1e5a363c8cc6117fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest6/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest6/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_4cbb992a57124e4d3a635f454907fcf5a00a1ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_db10055b71399f444d34f6b2a1a3099d92e0519e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_fcabaf53d26ed19c4ed50ba82c88ea94a26a6f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/CameraOTG-master/usbCameraCommon/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="400647733f0ce0392157b199ad19643693fb2ff4">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/pre-dexed/debug/CameraOTG-master-usbCameraCommon-unspecified_baf7305829daa91b766dde6bdf48e1ac6be644fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_873654d2ba5e2018b7a233eccf850972fcf2bcd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_2e4089598410acd078ceb6247cca6f275966492c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/CameraOTG-master/usbCameraCommon/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="400647733f0ce0392157b199ad19643693fb2ff4">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/CameraOTG-master-usbCameraCommon-unspecified_c2d731594db46bc42559af5d05a1e387606bb4b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_ec67f7d21e1f95d90dbffb11750bd0d52cc51208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest5/build/intermediates/exploded-aar/CameraOTG-master/usbCameraCommon/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="400647733f0ce0392157b199ad19643693fb2ff4">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest5/build/intermediates/pre-dexed/debug/CameraOTG-master-usbCameraCommon-unspecified_cf565d9b30424e8e706e6db740604a4d7c0d0f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest5/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest5/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_9d21985f950b410f5ae6ca8c9d7520d2f4c7315f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_fd4f79a93196422b6cb921e09d0ca971b642aaae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_53c1cbe6a7fb4497bb82ff5ccd55f23cec875d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_1deecaa90b147aca419223f3f31744c594555410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_3500a0d2b0911420207c1449cd4e8dcfadc353f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest2/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest2/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_0440475536524078c45d593c282c8c05dcf3da77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d95b7a0aa68199c92a8f99349577bdcf5458c7f">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/myapplication/build/intermediates/pre-dexed/debug/com.serenegiant-common-1.4.3_ccf245f4426dae812e3b90a1ac9bdfac3f905374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e0d660c87e81d6417da296a5819a0dbeccad79e">
+        <dex dex="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/pre-dexed/debug/CameraOTG-master-libuvccamera-unspecified_6dbf772a7d164b5ba68946ec4ace8a34f50dfc72.jar" />
+    </item>
+
+</items>

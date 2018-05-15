@@ -1,0 +1,4 @@
+#Tue May 15 14:48:11 CST 2018
+base.0=/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest6/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest6/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/anim/slide_in_left.xml"
+    }
+]

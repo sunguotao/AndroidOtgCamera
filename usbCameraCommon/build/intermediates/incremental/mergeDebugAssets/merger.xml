@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/src/main/assets"/><source path="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraCommon/src/debug/assets"/></dataSet></merger>

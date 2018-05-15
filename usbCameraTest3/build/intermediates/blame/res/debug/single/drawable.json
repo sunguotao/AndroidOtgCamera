@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/recordingtime.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/recordingtime.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/border.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/mask_circle.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/mask_circle.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/btn_new_shutter.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/btn_new_shutter.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/btn_shutter_video_recording.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/btn_shutter_video_recording.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/toggle_slide.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/toggle_slide.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/border_gray.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/border_gray.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/toggle.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/toggle.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/quater_clear_rect.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/quater_clear_rect.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/border_black.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/border_black.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/toggle_button_base.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/toggle_button_base.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/btn_repeat_shutter_recording.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/btn_repeat_shutter_recording.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/frame_cross.9.png",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/frame_cross.9.png"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/btn_new_shutter_video.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/btn_new_shutter_video.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/res/merged/debug/drawable/frame.9.png",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/drawable/frame.9.png"
+    }
+]

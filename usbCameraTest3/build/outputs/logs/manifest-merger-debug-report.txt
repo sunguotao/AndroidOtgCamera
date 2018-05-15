@@ -1,0 +1,68 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:24:1-48:12
+	package
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:25:5-45
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:24:11-69
+	android:versionCode
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:27:5-70
+	android:name
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:27:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:28:22-78
+uses-feature#0x00020000
+ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:30:5-78
+	android:glEsVersion
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:30:19-51
+	android:required
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:30:52-75
+application
+ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:32:5-46:19
+	android:label
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:35:9-41
+	android:allowBackup
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:34:9-45
+	android:theme
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:36:9-40
+activity#com.serenegiant.usbcameratest3.MainActivity
+ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:37:9-45:20
+	android:screenOrientation
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:39:13-56
+	android:label
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:38:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml:43:27-74
+uses-sdk
+INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [CameraOTG-master:usbCameraCommon:unspecified] /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/CameraOTG-master/usbCameraCommon/unspecified/AndroidManifest.xml:28:5-30:41
+MERGED from [CameraOTG-master:libuvccamera:unspecified] /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/AndroidManifest.xml:29:5-31:41
+MERGED from [com.serenegiant:common:1.4.3] /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest3/src/main/AndroidManifest.xml

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/res/merged/debug/layout/color_picker.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/color_picker.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/res/merged/debug/layout/item_picker.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/item_picker.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/res/merged/debug/layout/dialog_camera.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/exploded-aar/CameraOTG-master/libuvccamera/unspecified/res/layout/dialog_camera.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/res/merged/debug/layout/list_item_bluetooth_device_info.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/list_item_bluetooth_device_info.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/res/merged/debug/layout/view_frame_selector.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/view_frame_selector.xml"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/res/merged/debug/layout/color_picker_dialog.xml",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest0/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/color_picker_dialog.xml"
+    }
+]
