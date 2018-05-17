@@ -236,9 +236,8 @@
     <item name="title" type="id"/>
     <integer name="card_flip_time_full">300</integer>
     <integer name="card_flip_time_half">150</integer>
-    <string name="app_name">door-camera</string>
+    <string name="app_name">USBCameraTest4</string>
     <string name="camera">Camera</string>
-    <string name="camera_notice">温馨提示:您有来访客人！ \n Reminder:Visitor at the door</string>
     <string name="color_picker_cancel">Cancel</string>
     <string name="color_picker_default_title">Select a Color</string>
     <string name="color_picker_select">Select</string>

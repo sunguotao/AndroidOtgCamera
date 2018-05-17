@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_drawer.png",
-        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/mipmap-xhdpi-v4/ic_drawer.png"
-    },
-    {
         "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_frame_circle_2.png",
         "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/mipmap-xhdpi-v4/ic_frame_circle_2.png"
+    },
+    {
+        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_drawer.png",
+        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/mipmap-xhdpi-v4/ic_drawer.png"
     },
     {
         "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_frame_cross_circle.png",

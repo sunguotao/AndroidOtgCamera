@@ -28,10 +28,6 @@
         "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/item_picker.xml"
     },
     {
-        "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/layout/test_fragment_main.xml",
-        "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/src/main/res/layout/test_fragment_main.xml"
-    },
-    {
         "merged": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/res/merged/debug/layout/list_item_bluetooth_device_info.xml",
         "source": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/build/intermediates/exploded-aar/com.serenegiant/common/1.4.3/res/layout/list_item_bluetooth_device_info.xml"
     },

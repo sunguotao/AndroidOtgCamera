@@ -13,11 +13,11 @@
                 "from": {
                     "file": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/src/main/res/values-w820dp/dimens.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 1262,
+                        "startOffset": 305,
                         "endColumn": 57,
-                        "endOffset": 1315
+                        "endOffset": 358
                     }
                 }
             }

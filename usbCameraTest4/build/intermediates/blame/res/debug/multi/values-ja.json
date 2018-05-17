@@ -13,11 +13,11 @@
                 "from": {
                     "file": "/Users/sunguotao/Desktop/GoogleChrome/CameraOTG-master/usbCameraTest4/src/main/res/values-ja/strings.xml",
                     "position": {
-                        "startLine": 24,
+                        "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1011,
+                        "startOffset": 1018,
                         "endColumn": 47,
-                        "endOffset": 1054
+                        "endOffset": 1061
                     }
                 }
             },

@@ -24,20 +24,20 @@
 apply plugin: 'com.android.application'
 
 android {
-	compileSdkVersion versionCompiler
-	buildToolsVersion versionBuildTool
+    compileSdkVersion versionCompiler
+    buildToolsVersion versionBuildTool
 
-	compileOptions {
-		sourceCompatibility javaSourceCompatibility
-		targetCompatibility javaTargetCompatibility
-	}
+    compileOptions {
+        sourceCompatibility javaSourceCompatibility
+        targetCompatibility javaTargetCompatibility
+    }
 
     defaultConfig {
-        applicationId "com.doorcamera.smileui"
+        applicationId "com.serenegiant.usbcameratest4"
         minSdkVersion 18
-		targetSdkVersion versionTarget
-		versionCode 9
-		versionName "3.00"
+        targetSdkVersion versionTarget
+        versionCode 8
+        versionName "3.00"
     }
 
     buildTypes {
